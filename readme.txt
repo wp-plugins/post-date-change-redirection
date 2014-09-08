@@ -2,8 +2,8 @@
 Contributors: gagan0123
 Tags: Post Date, Redirection, 301
 Requires at least: 3.5
-Tested up to: 3.6.1
-Stable tag: 1.0
+Tested up to: 4.0
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -26,3 +26,6 @@ It is just plug and play, activate it and it starts working, no configuration re
 
 = 1.0 =
 * Initial plugin
+
+= 1.1 =
+* Tested with WordPress 4.0
