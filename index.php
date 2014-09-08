@@ -3,7 +3,7 @@
 Plugin Name: Post Date Change Redirection
 Plugin URI: http://wordpress.org/plugins/post-date-change-redirection/
 Description: Plugin handles the changes in the slug due to post date change by providing 301 redirection
-Version: 1.0
+Version: 1.1
 Author: Gagan Deep Singh
 Author URI: http://gagan.pro
 */
