@@ -20,7 +20,6 @@ if ( !defined( 'ABSPATH' ) )
 function gs_pdcr_check_redirection() {
 	if ( is_404() ) {
 		$name			 = get_query_var( 'name' );
-		echo $name;
 		$original_name	 = $name;
 		gs_pdcr_redirect_to_object_by_title( $name );
 		global $wp;
